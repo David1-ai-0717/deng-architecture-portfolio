@@ -2,19 +2,16 @@
   "name": "deng-architecture-portfolio",
   "version": "1.0.0",
   "type": "module",
-
   "scripts": {
-    "build": "vite build",
-    "dev": "vite"
+    "dev": "vite",
+    "build": "vite build"
   },
-
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.28.0",
     "framer-motion": "^11.0.0"
   },
-
   "devDependencies": {
     "vite": "^6.0.0",
     "@vitejs/plugin-react": "^4.3.4"
